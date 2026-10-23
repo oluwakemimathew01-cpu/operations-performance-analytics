@@ -1,4 +1,3 @@
-
 -- Operations Performance Analytics
 -- Dataset: Synthetic service requests
 -- Purpose: Analyse service performance, SLA compliance, and operating costs.
