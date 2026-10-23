@@ -1,0 +1,22 @@
+
+request_id,request_date,location,service_type,team,priority,resolution_hours,sla_target_hours,status,operating_cost
+SR001,2026-01-05,Lagos,Installation,Team A,High,5,8,Completed,18000
+SR002,2026-01-06,Abuja,Maintenance,Team B,Medium,14,24,Completed,12000
+SR003,2026-01-07,Lagos,Technical Support,Team A,High,11,8,Completed,9500
+SR004,2026-01-08,Ibadan,Inspection,Team C,Low,20,48,Completed,7000
+SR005,2026-01-09,Abuja,Installation,Team B,High,6,8,Completed,21000
+SR006,2026-01-10,Lagos,Maintenance,Team C,Medium,29,24,Completed,14500
+SR007,2026-01-11,Ibadan,Technical Support,Team A,Low,7,24,Completed,6500
+SR008,2026-01-12,Abuja,Inspection,Team B,Medium,18,24,Completed,8500
+SR009,2026-01-13,Lagos,Installation,Team A,High,10,8,Completed,19500
+SR010,2026-01-14,Ibadan,Maintenance,Team C,Medium,16,24,Completed,11000
+SR011,2026-01-15,Abuja,Technical Support,Team B,High,4,8,Completed,8000
+SR012,2026-01-16,Lagos,Inspection,Team C,Low,30,48,Completed,7500
+SR013,2026-01-17,Ibadan,Installation,Team A,Medium,12,24,Completed,16000
+SR014,2026-01-18,Abuja,Maintenance,Team B,High,27,24,Completed,13500
+SR015,2026-01-19,Lagos,Technical Support,Team A,Medium,6,24,Completed,9000
+SR016,2026-01-20,Ibadan,Inspection,Team C,High,9,8,Completed,8200
+SR017,2026-01-21,Abuja,Installation,Team B,Medium,15,24,Completed,17500
+SR018,2026-01-22,Lagos,Maintenance,Team C,High,7,8,Completed,12500
+SR019,2026-01-23,Ibadan,Technical Support,Team A,Low,13,24,In Progress,6000
+SR020,2026-01-24,Abuja,Inspection,Team B,Medium,10,24,In Progress,7800
