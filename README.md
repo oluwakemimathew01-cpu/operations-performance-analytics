@@ -35,11 +35,11 @@ This project demonstrates how SQL analysis and interactive business intelligence
 ## Repository Structure
 
 operations-performance-analytics/
-├── data/
-│   └── service_requests.csv
-├── sql/
-│   └── operations_analysis.sql
-└── README.md
+- *data*
+- *service_requests.csv*
+- *sql*
+- *perations_analysis.sql*
+- README.md
 
 ## Methodology
 
