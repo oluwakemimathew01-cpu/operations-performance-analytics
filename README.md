@@ -8,6 +8,12 @@ The project uses a *synthetic service-request dataset* created for portfolio and
 
 The analysis was conducted using SQL and interactive Power BI dashboard to run operational records into measurables performance indicators and actionable insights.
 
+## Interactive Power BI Dashboard
+
+Explore the interactive dashboard to review operational KPIs, SLA compliance, service performance, and resolution times.
+
+[**View Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNzk3ZDZiNzUtMzNhOS00ZDAwLThjZjMtOTViM2ViZTU4ZWM3IiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+
 ## Power BI Dashboard Preview
 
 ![Operations Performance Dashboard](operations-performance-dashboard.jpeg)
