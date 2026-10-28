@@ -8,6 +8,10 @@ The project uses a *synthetic service-request dataset* created for portfolio and
 
 The analysis was conducted using SQL and interactive Power BI dashboard to run operational records into measurables performance indicators and actionable insights.
 
+## Power BI Dashboard Preview
+
+![Operations Performance Dashboard](operations-performance-dashboard.jpeg)
+
 ## Business Problem
 
 Service organisations need clear visibility into how efficiently requests are handled, whether service-level agreement (SLA) targets are being met, how performance varies across locations, teams and service types, and where operational attention may be required.
